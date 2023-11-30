@@ -1,0 +1,22 @@
+{
+  "name": "@afsinur/text-afsin",
+  "version": "1.0.0",
+  "description": "this returns text afsin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "afsinur",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afsinur/npm-text-afsin.git"
+  },
+  "keywords": [
+    "text-afsin"
+  ],
+  "bugs": {
+    "url": "https://github.com/Afsinur/npm-text-afsin/issues"
+  },
+  "homepage": "https://github.com/Afsinur/npm-text-afsin#readme"
+}
